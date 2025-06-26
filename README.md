@@ -19,7 +19,7 @@ I'm a third-year Engineering Science student at the University of Toronto, speci
   `→` Leading 10+ ML developers across multiple student-led projects at Canada's largest student AI group
 
 - 🌞 **Applied ML Intern**, *National University of Singapore*  
-  `→` Worked on deep learning models for **perovskite solar cell property prediction**, achieving 99.3% accuracy  
+  `→` Worked on deep learning models for perovskite solar cell property prediction, achieving 99.3% accuracy  
   `→` Internship supported by [ESROP Global](https://engsci.utoronto.ca/research-and-work/summer-research/esrop-global/)  
   `→` 1st place winner at MakerMania Hackathon (50+ teams)
 
