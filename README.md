@@ -56,5 +56,5 @@ I'm a third-year Engineering Science student at the University of Toronto, speci
 
 [![Website](https://img.shields.io/badge/-ashmita.ca-000?style=flat&logo=google-chrome)](https://ashmita.ca)  
 [![Email](https://img.shields.io/badge/-ashmita.bhattacharyya%40mail.utoronto.ca-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashmita.bhattacharyya@mail.utoronto.ca)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashmita-uoft/)  
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium)](https://medium.com/@ashmitabhattacharyya)
