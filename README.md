@@ -6,7 +6,7 @@ I'm an Engineering Science student at the University of Toronto, specializing in
 
 ### 🧠 Current Interests
 - Differential Privacy & Machine Unlearning  
-- LLMs and Transformer Architectures  
+- LLMs and Transformers
 - Efficient Deep Learning Systems  
 
 ---
