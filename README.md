@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ashmita!
 
-I'm a third-year Engineering Science student at the University of Toronto, specializing in Machine Intelligence with a Business minor.
+I'm a third-year Engineering Science student at the University of Toronto, specializing in Machine Intelligence with a Business minor. I’m passionate about building ethical AI systems and exploring privacy-preserving learning.
 
 ---
 
@@ -19,7 +19,9 @@ I'm a third-year Engineering Science student at the University of Toronto, speci
   `→` Leading 10+ ML developers across multiple student-led projects at Canada's largest student AI group
 
 - 🌞 **Applied ML Intern**, *National University of Singapore*  
-  `→` Achieved 99.3% accuracy in solar cell prediction; hackathon 1st place
+  `→` Worked on deep learning models for **perovskite solar cell property prediction**, achieving 99.3% accuracy  
+  `→` Internship supported by [ESROP Global](https://engsci.utoronto.ca/research-and-work/summer-research/esrop-global/)  
+  `→` 1st place winner at MakerMania Hackathon (50+ teams)
 
 ---
 
@@ -46,7 +48,7 @@ I'm a third-year Engineering Science student at the University of Toronto, speci
 - **[ICML 2025 Paper Acceptance](https://arxiv.org/abs/2505.18786)** (TPDP Workshop)  
 - **Donald C. Leigh Memorial Scholarship**, U of T Engineering  
 - **Governor General's Academic Medal**, High School Valedictorian  
-- **Singapore Junior Math Olympiad**, Gold Medalist (Top 1%, 27th National Rank)  
+- **Singapore Math Olympiad (SMO, Junior)**, Gold Medalist, 27th National Rank 
 
 ---
 
