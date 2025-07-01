@@ -3,28 +3,6 @@
 I'm an Engineering Science student at the University of Toronto, specializing in Machine Intelligence with a Business minor. 
 
 ---
-
-### 🧠 Current Interests
-- Differential Privacy & Machine Unlearning  
-- LLMs and Transformers
-- Efficient Deep Learning Systems  
-
----
-
-## 🚀 Experience Highlights
-- 🧪 **AI Privacy Researcher**, *[Vector Institute, CleverHans Lab](https://cleverhans.io/members/ashmita.html)*  
-  `→` Co-authored [paper](https://arxiv.org/abs/2505.18786) accepted at TPDP & ICML 2025 on per-instance privacy
-
-- 🤖 **VP Engineering**, *UTMIST (U of T Machine Intelligence Student Team)*  
-  `→` Leading 10+ ML developers across multiple student-led projects at Canada's largest student AI group
-
-- 🌞 **Applied ML Intern**, *National University of Singapore*  
-  `→` Worked on deep learning models for perovskite solar cell property prediction, achieving 99.3% accuracy  
-  `→` Internship supported by [ESROP Global](https://engsci.utoronto.ca/research-and-work/summer-research/esrop-global/)  
-  `→` 1st place winner at MakerMania Hackathon (50+ teams)
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages & Tools
