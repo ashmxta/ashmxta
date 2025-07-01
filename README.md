@@ -22,14 +22,6 @@ I'm an Engineering Science student at the University of Toronto, specializing in
 
 ---
 
-## 🏆 Awards
-- **[ICML 2025 Paper Acceptance](https://arxiv.org/abs/2505.18786)** (TPDP Workshop)  
-- **Donald C. Leigh Memorial Scholarship**, U of T Engineering  
-- **Governor General's Academic Medal**, High School Valedictorian  
-- **Singapore Math Olympiad (SMO, Junior)**, Gold Medalist, 27th National Rank 
-
----
-
 ## 🌐 Connect with Me
 
 [![Website](https://img.shields.io/badge/-ashmita.ca-000?style=flat&logo=google-chrome)](https://ashmita.ca)  
