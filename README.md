@@ -1,4 +1,4 @@
-# Hi I'm Ashmita!
+# Hi! I'm Ashmita
 
 Fourth-year engineering science student at UofT, majoring in Machine Intelligence.
 
