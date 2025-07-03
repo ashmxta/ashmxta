@@ -1,9 +1,8 @@
-# 👋 Hi there, I'm Ashmita!
+# Hi I'm Ashmita!
 
-I'm an Engineering Science student at the University of Toronto, specializing in Machine Intelligence.
+Fourth-year engineering science student at UofT, majoring in Machine Intelligence.
 
 ---
-## 🛠️ Tech Stack
 
 ### Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
@@ -22,7 +21,7 @@ I'm an Engineering Science student at the University of Toronto, specializing in
 
 ---
 
-## 🌐 Connect with Me
+### Connect
 
 [![Website](https://img.shields.io/badge/-ashmita.ca-000?style=flat&logo=google-chrome)](https://ashmita.ca)  
 [![Email](https://img.shields.io/badge/-ashmita.bhattacharyya%40mail.utoronto.ca-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ashmita.bhattacharyya@mail.utoronto.ca)  
