@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ashmita!
 
-I'm an Engineering Science student at the University of Toronto, specializing in Machine Intelligence with a Business minor. 
+I'm an Engineering Science student at the University of Toronto, specializing in Machine Intelligence.
 
 ---
 ## 🛠️ Tech Stack
